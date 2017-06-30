@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 2427305942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b96c3e0144a457c3d453e60d33d77d54
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Lightmapped.unity
+Dependencies: []
